@@ -2,7 +2,7 @@
 
 ## About me
 
-- I'm a trainded Data Scientist (@Oxford) and MSc. Economist (@Mannheim) from Germany, :computer:
+- I'm a trained Data Scientist (@Oxford) and Economist (@Mannheim) from Germany, :computer:
 - I'm currently doing my MSc. on _Social Data Science_ at the _Oxford Internet Institute_, :school_satchel:
 - I'm interested in research topics within the domain of {Market Design, Social Data Sciences}, :telescope:.
 
