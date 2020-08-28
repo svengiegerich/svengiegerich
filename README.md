@@ -11,7 +11,7 @@
 - _Kitamatch_. A market design mechanism for fair & fast childcare allocation. 
   + This is work in progress with Thilo Klein & Tobias Reischmann
   + @ Center for European Economic Research (ZEW) in Mannheim
-  + Interested in the implemented software? Let's see [the repo](https://github.com/svengiegerich/kitamatch)
+  + Interested in the implemented software? Let's see [the software repo](https://github.com/svengiegerich/kitamatch), and the [simulation study](https://github.com/tobiasreischmann/matchingmarkets-simulation)
 
 ## Reach me
 
