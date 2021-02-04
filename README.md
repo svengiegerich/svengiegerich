@@ -2,13 +2,13 @@
 
 ## About me
 
-- I'm a training in Data Scientist (@Oxford) and Economist (@Mannheim) from Germany, :computer:
-- I'm currently doing my MSc. on _Social Data Science_ at the _Oxford Internet Institute_, :school_satchel:
-- I'm interested in research topics within the domain of {market design, computational social science}, :telescope:.
+- I'm a trained Data Scientist (@Oxford) and Economist (@Mannheim) from Germany :computer:
+- I'm currently doing my MSc. on _Social Data Science_ at the _Oxford Internet Institute_ :school_satchel:
+- I'm interested in research topics within the domain of {market design, computational social science} :telescope:.
 
 ## Projects
 
-- _Kitamatch_. A market design mechanism for fair & fast childcare allocation. 
+- **Kitamatch**. A market design mechanism for fair & fast childcare allocation. 
   + This is work in progress with Thilo Klein & Tobias Reischmann
   + @ Center for European Economic Research (ZEW) in Mannheim
   + Interested in the implemented software? Let's see [the software repo](https://github.com/svengiegerich/kitamatch), and the [simulation study](https://github.com/tobiasreischmann/matchingmarkets-simulation)
@@ -17,6 +17,11 @@
 
 - Twitter: [@svengieg](https://twitter.com/svengieg)
 - LinkedIn: [here](https://www.linkedin.com/in/sven-giegerich/)
+
+## Press Coverage
+- [Marktdesign: Ökonomie ohne Elfenbeinturm](https://www.wiwo.de/my/politik/konjunktur/vwl-marktdesign-oekonomie-ohne-elfenbeinturm/25470414.html?ticket=ST-572409-T9hmN7hhap22uZ7XEXS4-ap5), *Wirtschaftswoche*, 2020.
+- [Gegen den Kita-Frust](https://www.faz.net/aktuell/wirtschaft/wie-ein-algorithmus-kitaplaetze-fairer-vergeben-soll-16510418.html), *Frankfurter Allgemeine Zeitung*, 2019.
+- [Mit künstlicher Intelligenz zum Kita-Platz](https://www.zeit.de/2021/06/kuenstliche-intelligenz-kita-anwendung-regulierung-gesellschaft-technologie), *Zeit*, 2020.
 
 <!--
 **svengiegerich/svengiegerich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
