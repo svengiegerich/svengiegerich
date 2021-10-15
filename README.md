@@ -2,14 +2,13 @@
 
 ## About me
 
-- I'm a trained Data Scientist (@Oxford) and Economist (@Mannheim) from Germany :computer:
-- I'm currently doing my MSc. on _Social Data Science_ at the _Oxford Internet Institute_ :school_satchel:
+- I'm a trained MSc. Data Scientist (@Oxford) and Economist (@Mannheim) from Germany :computer:
 - I'm interested in research topics within the domain of {market design, deep learning, computational social science} :telescope:.
 - My work was featured in major German newspaper like Die Zeit, Frankfurter Allgemeine Zeitung, and Wirtschaftswoche.
 
 ## Software
 
-- **Kitamatch**. An app that helps to allocate childcare places fair & fast.
+- **Kitamatch**. An application that helps to allocate childcare places fair & fast.
   + You can find the code at https://github.com/svengiegerich/kitamatch
   + Joint work with the fabulous [Mohammed Arif](https://github.com/arifnazrul)
   + @ Center for European Economic Research (ZEW) in Mannheim
